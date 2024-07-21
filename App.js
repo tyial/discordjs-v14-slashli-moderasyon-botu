@@ -10,7 +10,7 @@ const client = new Client({
 require("./Utils/eventLoader.js")(client)
 require("./Utils/slashHandler.js")(client)
 
-// ErrorHandler --------------------------------------------------------------
+// CrashHandler --------------------------------------------------------------
 process.on('unhandledRejection', (reason, p) => {
     console.error(reason);
 });
@@ -20,6 +20,6 @@ process.on("uncaughtException", (err, origin) => {
 process.on('uncaughtExceptionMonitor', (err, origin) => {
     console.error(' [AntiCrash] :: Uncaught Exception/Catch (MONITOR)');
 });
-// ErrorHandler --------------------------------------------------------------
+// CrashHandler --------------------------------------------------------------
 
 client.login(Config.Token);
