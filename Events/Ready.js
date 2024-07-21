@@ -3,13 +3,13 @@ require("advanced-logs")
 
 module.exports = client => {
 
+    console.success(`${client.user.username} adlı hesaba başarıyla bağlanıldı.`)
     const statuses = [
-        { name: `${client.user.username} hizmete hazır.`, type: "WATCHING" },
-        { name: `Tyial tarafından geliştirilmiştir.`, type: "PLAYING" },
-        { name: `discord.js v14 Moderasyon Botu!`, type: "LISTENING" },
+        { name: `${client.user.username} hizmete hazır.`, type: ActivityType.Watching },
+        { name: `Tyial tarafından geliştirilmiştir.`, type: ActivityType.Listening },
+        { name: `discord.js v14 Moderasyon Botu!`, type: ActivityType.Playing },
     ];
 
-    console.success(`${client.user.username} adlı hesaba başarıyla bağlanıldı.`)
     let index = 0;
 
     setInterval(() => {
