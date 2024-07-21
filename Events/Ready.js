@@ -9,6 +9,7 @@ module.exports = client => {
         { name: `discord.js v14 Moderasyon Botu!`, type: "LISTENING" },
     ];
 
+    console.success(`${client.user.username} adlı hesaba başarıyla bağlanıldı.`)
     let index = 0;
 
     setInterval(() => {
