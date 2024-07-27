@@ -12,7 +12,7 @@
 
 1. Destek almak için Discordum üzerinden bana ulaşabilirsiniz.
 
-**📞 Discordum -> [Tyial (tyial)](https://discord.com/users/tyial)**
+**📞 Discordum -> [Tyial (tyial)](https://discord.com/users/852868839691517972)**
 
 ---
 
