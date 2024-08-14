@@ -1,5 +1,13 @@
 # 🎉 **Tyial.XYZ - Discord.JS v14 Moderasyon Botu Altyapısı** 🚀
 
+## 📢 Bilgilendirme:
+
+Bu altyapı, Discord.js v14 sürümünü kullanmakta olup, Node.js v18 gerektirmektedir. Ancak, Glitch platformu şu anda yalnızca Node.js v16 sürümüne kadar destek sağlamaktadır. Bu nedenle, bu altyapıyı Glitch üzerinde kullanmanız mümkün değildir.
+
+Eğer Glitch platformunda çalışacak bir altyapıya ihtiyacınız varsa, Discord.js v13 sürümünü tercih edebilirsiniz. Discord.js v13, Node.js v16 ile uyumludur ve Glitch tarafından desteklenmektedir. [Buraya tıklayarak](https://github.com/tyial/discordjs-v13-slashli-moderasyon-botu) bu altyapının v13 sürümünü görüntüleyebilirsiniz.
+
+---
+
 ## 🚀 **Nasıl Yüklenir/Ayarlanır:**
 
 1. **🛠️ Setup.bat'ı çalıştırın.**
@@ -19,7 +27,7 @@
 ### 🌟 **Key Points**:
 
 - **📂 Dosyalar:** **Setup.bat**, **Config.js**, **Start.bat** ve diğerleri...
-- **📊 Sürüm:** **v13** için [**buraya tıklayın.**](https://github.com/Tyial/discordjs-v13-slashli-moderasyon-botu)
+- **📊 Sürüm:** **v13** için [**buraya tıklayın.**](https://github.com/tyial/discordjs-v13-slashli-moderasyon-botu)
 - **💬 Destek:** Discordum üzerinden iletişime geçebilirsiniz.
 
 ---
@@ -28,7 +36,7 @@
 
 - **📘 Discord.js Belgeleri:** [https://discord.js.org](https://discord.js.org)
 - **📕 Node.js Belgeleri:** [https://nodejs.org](https://nodejs.org)
-- **🔍 GitHub:** [https://github.com/Tyial](https://github.com/Tyial)
+- **🔍 GitHub:** [https://github.com/tyial](https://github.com/tyial)
 
 ---
 
